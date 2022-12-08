@@ -1,0 +1,23 @@
+# Food-Delivery-Website
+The Best Online Food Delivery Service in India | MyOnlineMeal.com
+
+I have created this website Using HTML and CSS. and this is a responsive website...
+
+and the below-given image is it shows the image of the homepage of | MyOnlineMeal.com | 
+On this homepage, I have added the Services, Our Clients, or Contact us sections so the user can easily access the page of the given section...
+
+![Screenshot (210)](https://user-images.githubusercontent.com/100087314/206416349-a08d0d94-e38a-49c5-bf93-b646abfbbf71.png)
+
+and our services section I have added the food ordering, food catering, or bulk ordering boxes...
+In this services section, the user can easily access the services section...
+
+![Screenshot (211)](https://user-images.githubusercontent.com/100087314/206418719-1220c5ca-bbbb-42a7-a668-021b05c72615.png)
+
+In the third step, I have added the Our Client section this section shows the all client of | MyOnlineMeal.com | ...
+
+![Screenshot (212)](https://user-images.githubusercontent.com/100087314/206419713-dea6f294-cabe-4218-bbbf-a3b311c45796.png)
+
+and the last step I have added a Login Form to this website...
+the user can easily fill in details in the form and click the tab submit...
+
+![Screenshot (213)](https://user-images.githubusercontent.com/100087314/206420501-84a6b807-ec32-4651-9425-6ac8950fa82b.png)
